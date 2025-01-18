@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinayvasantham
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... python full stack and cloud based roles
+- 👀 I’m interested in ... Cloud, Devops and Python Development 
+- 🌱 I’m currently learning ... python full stack and cloud and DevOps
 - 💞️ I’m looking to collaborate on ... big project
 - 📫 How to reach me ... @vinayvasantham for all social media accounts (Twitter,git_hub,Linkedin)
 
