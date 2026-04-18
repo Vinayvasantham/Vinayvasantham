@@ -1,6 +1,20 @@
 # 💫 About Me:
-👋 Hi, I’m @Vinayvasantham<br>👀 I’m interested in ... Cloud, Devops and Python Development<br>🌱 I’m currently learning ... python full stack and cloud and DevOps<br>💞️ I’m looking to collaborate on ... big project<br>📫 How to reach me ... @vinayvasantham for all social media accounts (Twitter,git_hub,Linkedin)
+👋 I'm Nagavinay — DevOps Engineer with production experience @ LeadSquared
 
+🔧 I build with: Terraform · AWS EKS · Kubernetes · Jenkins · ArgoCD · 
+   GitHub Actions · Docker · Python (Boto3)
+
+🚀 Featured projects:
+   → End-to-end CI/CD Pipeline (Jenkins + ArgoCD + K8s)
+   → AWS Cost Optimization via Lambda + Boto3
+
+🌱 Currently exploring: Datadog · GCP · Advanced Observability
+
+🤝 Open to collaborating on: DevOps tooling, cloud automation, 
+   or open-source infra projects
+
+📫 Reach me: vinayvasantham7@gmail.com
+   LinkedIn: linkedin.com/in/vinayvasantham
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayvasantham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayvasantham7@gmail.com) 
